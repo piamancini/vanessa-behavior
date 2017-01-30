@@ -3,6 +3,8 @@
 [![Открытый чат проекта https://gitter.im/silverbulleters/vanessa-behavoir](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/silverbulleters/vanessa-behavoir?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](http://ci.silverbulleters.org/buildStatus/icon?job=Vanessa-Behavior-Develop)](http://ci.silverbulleters.org/job/Vanessa-Behavior-Develop/)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/vanessa-services/localized.svg)](https://crowdin.com/project/vanessa-services)
+[![OpenCollective](https://opencollective.com/vanessa-behavior/backers/badge.svg)](#backers) 
+[![OpenCollective](https://opencollective.com/vanessa-behavior/sponsors/badge.svg)](#sponsors)
 
 ## BDD for 1С:Enterprise
 
@@ -241,3 +243,76 @@ git submodule update --init --recursive
 Контура сборки предоставлены
 
 [![DOcean] (https://www.digitalocean.com/assets/media/logos-badges/png/DO_Logo_Horizontal_Blue-3db19536.png)](https://m.do.co/c/2a3a0769ac84)
+
+This is for your open collective backers and sponsors to appear directly on your README. 
+see how it'll look [here](https://github.com/apex/apex#backers)
+[More info](https://github.com/opencollective/opencollective/wiki/Github-banner)
+
+Also add badges on top.
+## Backers
+Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/vanessa-behavior#backer)]
+
+<a href="https://opencollective.com/vanessa-behavior/backer/0/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/0/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/1/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/1/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/2/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/2/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/3/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/3/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/4/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/4/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/5/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/5/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/6/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/6/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/7/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/7/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/8/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/8/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/9/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/9/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/10/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/10/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/11/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/11/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/12/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/12/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/13/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/13/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/14/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/14/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/15/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/15/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/16/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/16/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/17/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/17/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/18/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/18/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/19/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/19/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/20/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/20/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/21/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/21/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/22/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/22/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/23/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/23/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/24/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/24/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/25/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/25/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/26/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/26/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/27/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/27/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/28/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/28/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/backer/29/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/backer/29/avatar.svg"></a>
+
+
+## Sponsors
+Become a sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://opencollective.com/vanessa-behavior#sponsor)]
+<a href="https://opencollective.com/vanessa-behavior/sponsor/0/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/1/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/2/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/3/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/4/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/5/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/6/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/7/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/8/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/9/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/9/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/10/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/10/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/11/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/11/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/12/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/12/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/13/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/13/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/14/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/14/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/15/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/15/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/16/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/16/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/17/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/17/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/18/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/18/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/19/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/19/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/20/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/20/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/21/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/21/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/22/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/22/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/23/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/23/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/24/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/24/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/25/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/25/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/26/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/26/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/27/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/27/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/28/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/28/avatar.svg"></a>
+<a href="https://opencollective.com/vanessa-behavior/sponsor/29/website" target="_blank"><img src="https://opencollective.com/vanessa-behavior/sponsor/29/avatar.svg"></a>
